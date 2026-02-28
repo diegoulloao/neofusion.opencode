@@ -35,8 +35,8 @@
       "light": "bright_green"
     },
     "accent": {
-      "dark": "neutral_purple",
-      "light": "neutral_purple"
+      "dark": "bright_orange",
+      "light": "bright_orange"
     },
     "error": {
       "dark": "bright_red",
