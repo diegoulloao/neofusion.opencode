@@ -11,7 +11,7 @@
 </div>
 
 <p align="center"> 
-    <img alt="Made for OpenCode" src="https://img.shields.io/badge/Made%20for-OpenCode-0A0A0A.svg?style=for-the-badge" />
+  <img alt="Made for OpenCode" src="https://img.shields.io/badge/Made%20for-OpenCode-66def9?style=for-the-badge&logoColor=000000" />
 </p>
 
 <p align="center">
