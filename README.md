@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    Neofusion theme for OpenCode CLI inspired by neofusion.nvim
+    Neofusion theme for OpenCode CLI 🤖 inspired by neofusion.nvim
 </p>
 
 <p align="center">
