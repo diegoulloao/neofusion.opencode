@@ -26,6 +26,10 @@
     <img src="https://i.ibb.co/gbvnqRjy/neofusion-opencode-2.png" alt="neofusion" />
 </p>
 
+<p align="center">
+    <img src="https://i.ibb.co/D0N1W43/neofusion-opencode-3.png" alt="neofusion" />
+</p>
+
 ---
 
 # 1. Prerequisites 📦
