@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <img src="https://i.ibb.co/gFbsRF1f/Screenshot-2026-02-27-at-10-23-14-PM.png" alt="neofusion" />
+    <img src="https://i.ibb.co/xt37fqyr/Screenshot-2026-02-27-at-10-43-55-PM.png" alt="neofusion" />
 </p>
 
 ---
