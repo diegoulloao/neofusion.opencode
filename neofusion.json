@@ -151,8 +151,8 @@
       "light": "neutral_purple"
     },
     "markdownCode": {
-      "dark": "faded_green",
-      "light": "faded_green"
+      "dark": "bright_orange",
+      "light": "bright_orange"
     },
     "markdownBlockQuote": {
       "dark": "neutral_blue",
@@ -207,8 +207,8 @@
       "light": "light0"
     },
     "syntaxString": {
-      "dark": "faded_green",
-      "light": "faded_green"
+      "dark": "bright_orange",
+      "light": "bright_orange"
     },
     "syntaxNumber": {
       "dark": "neutral_purple",
