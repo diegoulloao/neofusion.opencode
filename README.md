@@ -19,11 +19,11 @@
 </p>
 
 <p align="center">
-    <img src="https://i.ibb.co/GXdMQvz/neofusion-opencode-1.png" alt="neofusion" />
+    <img src="https://i.ibb.co/S4QnZD2m/neofusion-opencode-1.png" alt="neofusion" />
 </p>
 
 <p align="center">
-    <img src="https://i.ibb.co/gbvnqRjy/neofusion-opencode-2.png" alt="neofusion" />
+    <img src="https://i.ibb.co/1YrLwSw4/neofusion-opencode-2.png" alt="neofusion" />
 </p>
 
 <p align="center">
