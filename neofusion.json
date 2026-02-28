@@ -59,8 +59,8 @@
       "light": "bright_blue"
     },
     "textMuted": {
-      "dark": "neutral_blue",
-      "light": "neutral_blue"
+      "dark": "light0",
+      "light": "light0"
     },
     "background": {
       "dark": "dark0",
@@ -151,8 +151,8 @@
       "light": "neutral_purple"
     },
     "markdownCode": {
-      "dark": "bright_orange",
-      "light": "bright_orange"
+      "dark": "bright_green",
+      "light": "bright_green"
     },
     "markdownBlockQuote": {
       "dark": "neutral_blue",
@@ -203,8 +203,8 @@
       "light": "bright_green"
     },
     "syntaxVariable": {
-      "dark": "light0",
-      "light": "light0"
+      "dark": "bright_orange",
+      "light": "bright_orange"
     },
     "syntaxString": {
       "dark": "bright_orange",
