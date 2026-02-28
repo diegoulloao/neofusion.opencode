@@ -37,8 +37,6 @@
 
 # 2. Installation ⚡️
 
-## Manual installation (recommended)
-
 Create the themes directory if it doesn’t exist:
 
 ```bash
@@ -55,7 +53,7 @@ cp neofusion.json ~/.config/opencode/themes/
 
 # 3. Basic usage ✨
 
-## Option A: Temporary (inside OpenCode)
+## A. Temporary (inside OpenCode)
 
 Inside OpenCode, run:
 
@@ -71,7 +69,7 @@ neofusion
 
 ---
 
-## Option B:  Set as default
+## B.  Set as default
 
 Edit your OpenCode config file:
 
