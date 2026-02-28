@@ -55,7 +55,7 @@ cp neofusion.json ~/.config/opencode/themes/
 
 # 3. Basic usage ✨
 
-## Option A — Temporary (inside OpenCode)
+## Option A: Temporary (inside OpenCode)
 
 Inside OpenCode, run:
 
@@ -71,7 +71,7 @@ neofusion
 
 ---
 
-## Option B — Set as default
+## Option B:  Set as default
 
 Edit your OpenCode config file:
 
@@ -92,72 +92,7 @@ Restart OpenCode.
 
 ---
 
-# 4. Configuration 💎
-
-OpenCode themes are static JSON theme definitions.
-
-All color tokens are defined inside:
-
-```json
-{
-  "$schema": "https://opencode.ai/theme.json",
-  "defs": { ... },
-  "theme": { ... }
-}
-```
-
-To customize the theme:
-
-1. Edit `neofusion.json`
-2. Modify colors inside `"defs"`
-3. Restart OpenCode
-
----
-
-# 5. Overriding 👾
-
-## a. Adjusting palette colors
-
-Modify any color inside the `defs` section:
-
-```json
-"defs": {
-  "bright_green": "#ec30ac"
-}
-```
-
-Restart OpenCode to apply changes.
-
----
-
-## b. Tweaking semantic mappings
-
-You can adjust how colors are used by modifying entries inside `"theme"`:
-
-```json
-"syntaxKeyword": {
-  "dark": "bright_purple",
-  "light": "bright_purple"
-}
-```
-
-This allows you to rebalance contrast or emphasis without altering the base palette.
-
----
-
-# 6. Advanced 🔥
-
-For best visual results:
-
-- Use a dark terminal background
-- Disable terminal transparency if contrast feels low
-- Pair with Neofusion terminal themes (Kitty, WezTerm, etc.)
-
-For a fully unified setup, use the matching terminal and editor ports listed below.
-
----
-
-# 7. Ports ⭐
+# 4. Ports ⭐
 
 ### `neofusion.nvim`
 
