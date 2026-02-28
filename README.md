@@ -5,7 +5,7 @@
 
 <div align="center">
     <h1>
-        <img src="https://i.ibb.co/87DhmZx/logo.jpg" width="110" />
+        <img src="https://i.ibb.co/MDsfVQMP/neofusion-opencode-logo.png" width="110" />
         <br />neofusion.opencode
     </h1>
 </div>
