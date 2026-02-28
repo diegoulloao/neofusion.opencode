@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    <img src="https://i.ibb.co/Y6NdB7H/neofusion-opencode-1.png" alt="neofusion" />
+    <img src="https://i.ibb.co/GXdMQvz/neofusion-opencode-1.png" alt="neofusion" />
 </p>
 
 <p align="center">
