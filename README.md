@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-    <img src="https://i.ibb.co/D0N1W43/neofusion-opencode-3.png" alt="neofusion" />
+    <img src="https://i.ibb.co/nMwwYQB2/neofusion-opencode-3.png" alt="neofusion" />
 </p>
 
 ---
