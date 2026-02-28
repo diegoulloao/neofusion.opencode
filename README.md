@@ -118,11 +118,11 @@ Windows Terminal theme version. [Check it out!](https://github.com/diegoulloao/n
 
 ### `neofusion.bat`
 
-Bat theme version [Check it out!](https://github.com/diegoulloao/neofusion.bat/)
+Bat theme version. [Check it out!](https://github.com/diegoulloao/neofusion.bat/)
 
 ### `neofusion.fzf`
 
-FZF theme version [Check it out!](https://github.com/diegoulloao/neofusion.fzf/)
+FZF theme version. [Check it out!](https://github.com/diegoulloao/neofusion.fzf/)
 
 ### `neofusion.k9s`
 
@@ -130,7 +130,7 @@ K9s theme version. [Check it out!](https://github.com/diegoulloao/neofusion.k9s)
 
 ### `neofusion.sp`
 
-Spotify Player (Terminal) theme version [Check it out!](https://github.com/diegoulloao/neofusion.sp/)
+Spotify Player (Terminal) theme version. [Check it out!](https://github.com/diegoulloao/neofusion.sp/)
 
 ### `neofusion.posting`
 
@@ -138,7 +138,11 @@ Posting theme version. [Check it out!](https://github.com/diegoulloao/neofusion.
 
 ### `neofusion.vscode`
 
-VS Code theme version [Check it out!](https://github.com/diegoulloao/neofusion.vscode/)
+VS Code theme version. [Check it out!](https://github.com/diegoulloao/neofusion.vscode/)
+
+### `neofusion-emacs` (third-party)
+
+Emacs theme version by [@konrad1977](https://github.com/konrad1977). [Check it out!](https://github.com/konrad1977/neofusion-emacs)
 
 ### `neofusion-wallpapers`
 
